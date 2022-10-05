@@ -6,6 +6,7 @@ public class ControleRemotoTest {
         c.ligar();
         c.play();
         c.maisVolume();
+        c.menosVolume();
         c.abrirMenu();
         c.fecharMenu();
     }
